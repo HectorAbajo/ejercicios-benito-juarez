@@ -1,0 +1,29 @@
+[
+  {
+    "nombre": "Julian",
+    "apellido": "jclscks",
+    "fechaDeNacimiento": "12/12/1999",
+    "documento": "32561461",
+    "telefono": "1644331+4",
+    "miembroDesde": "25/3/2023",
+    "deporte": 2
+  },
+  {
+    "nombre": "",
+    "apellido": "ttrnnr",
+    "fechaDeNacimiento": "12/12/8888",
+    "documento": "2169461",
+    "telefono": "89465132",
+    "miembroDesde": "25/3/2023",
+    "deporte": 2
+  },
+  {
+    "nombre": "vnekjkj",
+    "apellido": "ngregnj",
+    "fechaDeNacimiento": "11/11/1966",
+    "documento": "546413132",
+    "telefono": "46841",
+    "miembroDesde": "25/3/2023",
+    "deporte": 4
+  }
+]
