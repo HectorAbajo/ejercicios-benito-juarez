@@ -1,0 +1,89 @@
+[
+  {
+    "nombre": "jose",
+    "apellido": "perez",
+    "dni": 40852965,
+    "contacto": "josesito@gmail.com",
+    "idAlumno": "afe58875-fcab-437a-a0fa-6665ac4189b8",
+    "materias": [
+      "electrotecnia",
+      "taller"
+    ],
+    "promedio": 0,
+    "profesores": [
+      "federico magno/",
+      "jorge romero/"
+    ],
+    "materiaNota": []
+  },
+  {
+    "nombre": "roberto",
+    "apellido": "saldivar",
+    "dni": 39852654,
+    "contacto": "roca@hotmail.com",
+    "idAlumno": "6b7ea8fa-3695-4418-aed1-6925d8305db3",
+    "materias": [
+      "literatura"
+    ],
+    "promedio": 0,
+    "profesores": [
+      "mercedes garrido/"
+    ],
+    "materiaNota": []
+  },
+  {
+    "nombre": "miguel",
+    "apellido": "amaya",
+    "dni": 36548965,
+    "contacto": "2494568574",
+    "idAlumno": "91e7b247-e084-4c31-8789-83f12ebcacd2",
+    "materias": [],
+    "promedio": 0,
+    "profesores": [],
+    "materiaNota": []
+  },
+  {
+    "nombre": "sebastias",
+    "apellido": "danuncio",
+    "dni": 32456123,
+    "contacto": "pata@outlook.com",
+    "idAlumno": "72cabc69-5587-4223-887d-d2bbb0708495",
+    "materias": [
+      "termodinamica"
+    ],
+    "promedio": 0,
+    "profesores": [
+      "martin isaza/"
+    ],
+    "materiaNota": []
+  },
+  {
+    "nombre": "simon",
+    "apellido": "asas",
+    "dni": 31056847,
+    "contacto": "2494865215",
+    "idAlumno": "3c5cb15f-2ee0-4da8-861f-3007200a7fb5",
+    "materias": [],
+    "promedio": 0,
+    "profesores": [],
+    "materiaNota": []
+  },
+  {
+    "nombre": "hector",
+    "apellido": "abajo",
+    "dni": 32067310,
+    "contacto": "totoabajo@gmail.com",
+    "idAlumno": "81a4f55e-9b59-4127-acde-f57fbef50bb5",
+    "materias": [
+      {
+        "nombre": "neumatica"
+      },
+      {
+        "nombre": "electrotecnia"
+      }
+    ],
+    "promedio": 0,
+    "profesores": [],
+    "materiaNota": []
+  }
+]

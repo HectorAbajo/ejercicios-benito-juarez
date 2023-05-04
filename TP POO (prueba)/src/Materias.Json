@@ -1,0 +1,21 @@
+[
+  {
+    "nombre": "taller"
+  },
+  {
+    "nombre": "neumatica"
+  },
+  {
+    "nombre": "literatura"
+  },
+  {
+    "nombre": "electrotecnia"
+  },
+  {
+    "nombre": "termodinamica"
+  },
+  {
+    "nombre": "tecnologia",
+    "nota": 0
+  }
+]
