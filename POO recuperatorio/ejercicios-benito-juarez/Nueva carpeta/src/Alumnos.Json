@@ -1,0 +1,16 @@
+[
+  {
+    "nombre": "hector",
+    "apellido": "abajo",
+    "dni": 32067310,
+    "contacto": "2281569874",
+    "idAlumno": "f429272c-d75a-49a3-a6bc-05fcb6ff02a0",
+    "materias": [
+      "quimica 3"
+    ],
+    "promedio": 0,
+    "profesores": [
+      "raul"
+    ]
+  }
+]

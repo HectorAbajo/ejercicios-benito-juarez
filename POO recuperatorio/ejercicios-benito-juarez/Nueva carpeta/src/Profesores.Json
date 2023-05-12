@@ -1,0 +1,37 @@
+[
+  {
+    "nombre": "jose",
+    "apellido": "marmol",
+    "dni": 10254789,
+    "contacto": "julito@yahoo.com",
+    "idProfesor": "c1864fc6-9ca9-4bba-b9cf-467ae6225cf3",
+    "materiaDictada": "fisica 1",
+    "alumnos": []
+  },
+  {
+    "nombre": "toma",
+    "apellido": "girado",
+    "dni": 36520147,
+    "contacto": "2948563214",
+    "idProfesor": "8a689767-1b14-4b37-9df7-5010e88f7bfb",
+    "materiaDictada": "termodinamica",
+    "alumnos": []
+  },
+  {
+    "nombre": "raul",
+    "apellido": "pandeles",
+    "dni": 25786214,
+    "contacto": "2281456879",
+    "idProfesor": "52ada972-ced7-4e23-b18b-46c9772c22d5",
+    "materiaDictada": "quimica 3",
+    "alumnos": []
+  },
+  {
+    "nombre": "mauricio",
+    "apellido": "sarguini",
+    "dni": 36125478,
+    "contacto": "2494568752",
+    "materiaDictada": "matematica 2",
+    "alumnos": []
+  }
+]

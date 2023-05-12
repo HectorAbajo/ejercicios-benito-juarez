@@ -1,0 +1,84 @@
+[
+  {
+    "nombre": "pablo",
+    "apellido": "de la torre",
+    "dni": 19548523,
+    "idAlumno": "805f8e0f-039a-43f9-8d82-f1063283e8b6",
+    "contacto": "chispa@yahoo.com",
+    "materias": [
+      {
+        "nombre": "termodinamica",
+        "nota": 0
+      },
+      {
+        "nombre": "taller",
+        "nota": 0
+      }
+    ],
+    "promedio": 0,
+    "profesores": [
+      "raul pandeles",
+      "sergio chevez"
+    ]
+  },
+  {
+    "nombre": "miguel",
+    "apellido": "amaya",
+    "dni": 31456852,
+    "idAlumno": "513606d5-f10e-4e47-b72d-6529851c52bc",
+    "contacto": "2494587632",
+    "materias": [],
+    "promedio": 0,
+    "profesores": []
+  },
+  {
+    "nombre": "nicolas",
+    "apellido": "arregui",
+    "dni": 30458963,
+    "idAlumno": "ad0ebede-55b3-4aff-aa47-eb3edbb98f82",
+    "contacto": "nico@gmail.com",
+    "materias": [],
+    "promedio": 0,
+    "profesores": []
+  },
+  {
+    "nombre": "alejandro",
+    "apellido": "bugna",
+    "dni": 16520349,
+    "idAlumno": "b68c6387-d956-49a2-a27f-71c5516f542d",
+    "contacto": "jandry@hotmail.com",
+    "materias": [],
+    "promedio": 0,
+    "profesores": []
+  },
+  {
+    "nombre": "carlos",
+    "apellido": "perez",
+    "dni": 29756321,
+    "idAlumno": "cb8830d0-9882-4c68-9ccf-fdbf6f5c1a16",
+    "contacto": "charly@gamil.com",
+    "materias": [],
+    "promedio": 0,
+    "profesores": []
+  },
+  {
+    "nombre": "julio",
+    "apellido": "sequeira",
+    "dni": 35843126,
+    "idAlumno": "f17623fa-cf9a-4abf-a206-dc33a474063f",
+    "contacto": "indio@outlook.com",
+    "materias": [],
+    "promedio": 0,
+    "profesores": []
+  },
+  {
+    "nombre": "federico",
+    "apellido": "aguilera",
+    "dni": 21458763,
+    "idAlumno": "75d9f4fc-7439-4539-b496-efe63d927b54",
+    "contacto": "2494875636",
+    "materias": [],
+    "promedio": 0,
+    "profesores": []
+  }
+]

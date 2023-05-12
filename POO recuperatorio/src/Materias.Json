@@ -1,0 +1,38 @@
+[
+  {
+    "nombre": "quimica",
+    "nota": 0
+  },
+  {
+    "nombre": "fisica",
+    "nota": 0
+  },
+  {
+    "nombre": "matematica",
+    "nota": 0
+  },
+  {
+    "nombre": "taller",
+    "nota": 0
+  },
+  {
+    "nombre": "tecnologia",
+    "nota": 0
+  },
+  {
+    "nombre": "dibujo tecnico",
+    "nota": 0
+  },
+  {
+    "nombre": "electrotecnia",
+    "nota": 0
+  },
+  {
+    "nombre": "procesos",
+    "nota": 0
+  },
+  {
+    "nombre": "termodinamica",
+    "nota": 0
+  }
+]

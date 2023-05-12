@@ -1,0 +1,51 @@
+[
+  {
+    "nombre": "ariel",
+    "apellido": "rivas",
+    "dni": 13654753,
+    "idProfesor": "113e2804-8c2f-41f1-a4e1-9f8d8d947346",
+    "contacto": "cachin@yahoo.com",
+    "materiaDictada": "dibujo tecnico",
+    "alumnos": []
+  },
+  {
+    "nombre": "jose luis",
+    "apellido": "groppa",
+    "dni": 16854023,
+    "idProfesor": "b1482a83-438d-44fe-8e81-49b5a8d41399",
+    "contacto": "2292457365",
+    "materiaDictada": "fisica",
+    "alumnos": []
+  },
+  {
+    "nombre": "ruben",
+    "apellido": "calvi",
+    "dni": 20589654,
+    "idProfesor": "2055f314-7fcc-497f-8dde-dda7e7193fe4",
+    "contacto": "2281965874",
+    "materiaDictada": "quimica",
+    "alumnos": []
+  },
+  {
+    "nombre": "raul",
+    "apellido": "pandeles",
+    "dni": 25456802,
+    "idProfesor": "b802a85c-799c-4b6b-aea7-b16b174512f4",
+    "contacto": "panda@hotmail.com",
+    "materiaDictada": "termodinamica",
+    "alumnos": [
+      "pablo de la torre"
+    ]
+  },
+  {
+    "nombre": "sergio",
+    "apellido": "chevez",
+    "dni": 16423587,
+    "idProfesor": "a19f5db8-b236-4d43-a742-fa8f642c6acc",
+    "contacto": "228156856",
+    "materiaDictada": "taller",
+    "alumnos": [
+      "pablo de la torre"
+    ]
+  }
+]

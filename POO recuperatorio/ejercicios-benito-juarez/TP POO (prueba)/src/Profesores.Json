@@ -1,0 +1,64 @@
+[
+  {
+    "nombre": "jorge",
+    "apellido": "romero",
+    "dni": 35456985,
+    "contacto": "224948563214",
+    "idProfesor": "1190c524-e79c-4fa3-8862-9d4bdd07ce30",
+    "materiaDictada": "taller",
+    "alumnos": [
+      "jose perez/"
+    ]
+  },
+  {
+    "nombre": "federico",
+    "apellido": "magno",
+    "dni": 21564789,
+    "contacto": "mago@gmail.com",
+    "idProfesor": "1ae10c4a-14ba-4e23-9459-64f5e5f9a2f2",
+    "materiaDictada": "electrotecnia",
+    "alumnos": [
+      "jose perez"
+    ]
+  },
+  {
+    "nombre": "martin",
+    "apellido": "isaza",
+    "dni": 11652357,
+    "contacto": "lm@gmail.com",
+    "idProfesor": "9d7b2f52-af8c-40ec-8fe0-959268ee448a",
+    "materiaDictada": "termodinamica",
+    "alumnos": [
+      "sebastias danuncio"
+    ]
+  },
+  {
+    "nombre": "mercedes",
+    "apellido": "garrido",
+    "dni": 25647896,
+    "contacto": "266458752",
+    "idProfesor": "195562e6-e966-4515-a422-03460cabcf18",
+    "materiaDictada": "literatura",
+    "alumnos": [
+      "roberto saldivar/"
+    ]
+  },
+  {
+    "nombre": "roberta",
+    "apellido": "milia",
+    "dni": 36852147,
+    "contacto": "mili@yahoo.com",
+    "idProfesor": "d3d9f8f6-9844-4e7f-a432-bb2421ed08fe",
+    "materiaDictada": "neumatica",
+    "alumnos": []
+  },
+  {
+    "nombre": "pablo",
+    "apellido": "barreiro",
+    "dni": 32482268,
+    "contacto": "2281456585",
+    "idProfesor": "b5bd9f04-1440-4e22-95e4-f61e613d0e97",
+    "materiaDictada": "tecnologia",
+    "alumnos": []
+  }
+]
