@@ -1,0 +1,51 @@
+.divContenedorCards{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
+
+.divTituloCrad{
+    width: 100%;
+    height: 20%;
+}
+
+.tituloCard{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 100%;
+    height: 15%;
+}
+
+.divImgCard{
+    width: 100%;
+    height: 50%;
+}
+
+img{
+    width: 100%;
+    height: 100%;  
+}
+
+.divParrafoCard{
+    width: 100%;
+    height: 15%;
+}
+
+.parrafo{
+    margin-top: 50px;
+    text-align: center;
+    font-size: xx-large;
+    font-style: oblique;
+    font-family: fantasy;
+    color: blue;
+}
+.divCard{
+    max-width: 300px;
+    max-height: 3000px;
+    box-shadow: 5px 5px 20px rgba(0,0,0,0.4);
+	transform: translateY(-3%);
+	padding: 10px;
+	margin: 5px;
+	border: 2px solid #0a0d0e;
+}
+
