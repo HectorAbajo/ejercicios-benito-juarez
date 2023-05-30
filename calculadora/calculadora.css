@@ -1,0 +1,105 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+h1{
+    font-size: xx-large;
+    font-family:fantasy;
+    color: rgba(156, 5, 5, 0.89);
+}
+
+.calculadora{
+    border-radius: 10px;
+    background-color: rgb(19, 124, 184);
+    border: 3px solid;
+    width: 175px;
+    height: 210px;
+}
+
+.numeros{
+    padding: 5px;
+}
+
+.botonNum{
+    background: #9eceeb;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    width: 50px;
+    height: 30px;
+    margin: .5px;
+    border-radius: 100px;
+    transition: all 0.5s;
+    cursor: pointer;
+}
+
+.botonNum:hover {
+    background-image: -webkit-linear-gradient(top, #418fc0, #dad866);
+    font-size: x-large;
+    width: 52px;
+    height: 32px;
+}
+
+.botonNegativo{
+    background-attachment:local;
+    background-color: #4fbb6a;
+    border-radius: 100px;
+    box-shadow: 3px 3px ;
+    color: rgb(0, 0, 180);
+    font-size: 20px;
+    margin: .5px;
+    padding-bottom: 3px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    width: 50px;
+    height: 30px;
+}
+
+.botonNegativo:hover{
+    color: rgb(15, 15, 15);
+    font-size: 21px;
+}
+
+.colorAlert{
+    background-color: rgb(222, 238, 6);
+    color: rgb(172, 11, 11);
+}
+
+.operadores{
+    padding: 5px;
+}
+
+.botonOperador{
+    background-attachment: fixed;
+    border-radius: 10px;
+    font-size: large;
+    margin: 1px;
+    width: 50px;
+    height: 30px;
+}
+
+.botonOperador:hover{
+    background-color: darkslategrey;
+    font-size: 22px;
+}
+
+#btnBorrar{
+    color:red;
+    background-attachment: scroll;
+    background-color: black;
+    border-radius: 800px;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 1px;
+    width: 50px;
+    height: 30px;  
+}
+
+#btnBorrar:hover{
+    color: white;
+}
+
+#numeroPantalla{
+    color: rgb(18, 18, 128);
+    font-family: fantasy;
+    font-size: xx-large;
+}
