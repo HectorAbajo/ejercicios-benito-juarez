@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>API REST</title>
+  <link rel="stylesheet" href="index.css">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+  <script src="https://kit.fontawesome.com/8a361e3afc.js" crossorigin="anonymous"></script>
+  <script src="index.js" defer></script>
+</head>
+<body id = "body">
+  <div id="divHeader">
+  <header>
+    <h1>API REST</h1>
+    <p>Práctica de consumo de recursos a través de endpoints. Métodos GET, POST, PUT y DELETE.</p>
+    <p>Utilizamos el backend de prueba de <a href="https://mockapi.io" target="_blank">MockAPI</a></p>
+  </header>
+  </div>
+  <div id="contenedorBarraBusqueda">
+    <div>
+    <label for="cuadroBusqueda">
+        <input id ="buscador" class="barraBusqueda form-control me-2" type="search" placeholder="Buscar" aria-label="Buscar">
+    </label>
+    </div>
+    <div id="divLupa"><i class="fa-solid fa-magnifying-glass"></i></div>
+  </div>
+    <button id="nuevoUsuario" class="btnCrearUsuario btn btn-outline-dark">Crear Usuario</button>
+  <div id="divModal">
+    <dialog id="modal">
+        <form action="" method="dialog" id="form">
+          <div id="divInputsModal">
+            <div id="divLabelNombre">
+            <label for="fullName">Nombre completo
+                <input type="text" id="nombre" name="nombreCompleto" required>
+            </label>
+            </div>
+            <div id="divLabelEmail">
+            <label for="email">Correo Electrónico
+                <input type="email" id="email" name="email" required>
+            </label>
+            </div>
+            <div id="divLabelTelefono">
+            <label for="phone">Teléfono
+                <input type="tel" id="telefono" name="telefono" required
+            pattern="^(?:(?:00)?549?)?0?(?:11|[2368]\d)(?:(?=\d{0,2}15)\d{2})??\d{8}$">
+            </label>
+            </div>
+          </div>
+          <div id="divBtnModal">
+              <input type="submit" class="btn btn-primary btn-sm" value="aceptar">
+              <input type="reset" class="btn btn-secondary btn-sm" value="limpiar">
+              <input type="button" class="btn btn-primary btn-sm" value="cancelar" id="cerrarModal">
+          </div>
+        </form>
+    </dialog>
+  </div>
+  <div id="divModalOpciones">
+    <dialog id="modalOpciones">
+        <h1>Modificar/Elimininar</h1>
+        <button id = "btnModificar" class="btn btn-primary btn-sm">Modificar</button>
+        <button id = "btnEliminar" class="btn btn-primary btn-sm" >Eliminar</button>
+        <input type="button" value="cerrar" id="cerrarModalOpciones" class="btn btn-secondary btn-sm">
+    </dialog>
+  </div>
+  <div id = "divTabla">
+    <table id = "tabla" >
+      <thead>
+        <tr>
+            <th id="colNombre" class="Encabezado">Nombre <i class="fa-solid fa-arrow-down-a-z"></i></th>
+            <th id="colEmail" class="Encabezado">Email <i class="fa-solid fa-arrow-down-a-z"></i></th>
+            <th id="colTelefono" class="Encabezado">Telefono <i class="fa-solid fa-arrow-down-a-z"></i></th>
+        </tr>
+      </thead>
+      <tbody id = "bodyTabla"></tbody>
